@@ -37,7 +37,7 @@ Using the example layout provided in either "http://localhost/index.php":
 - Clicking the "Next Person" button, after reaching the end of the "data" array, will trigger an alert that says "No more people!".
 
   
-<img width="1465" alt="Screenshot 2023-08-14 at 12 11 38 AM" src="https://github.com/Rohit-Masiwal/haystek-project/assets/88874168/947993bb-f87d-408e-abcc-a760d8272d7f">
+<img width="1465" alt="Screenshot 2023-08-14 at 12 11 38 AM" src="https://drive.google.com/file/d/1qLVD3pWPLo8AussBQ0qsDsvcmhViZW_b/view">
 
 <img width="1465" alt="Screenshot 2023-08-14 at 12 15 19 AM" src="https://github.com/Rohit-Masiwal/haystek-project/assets/88874168/748c6339-3779-4858-a696-491c98a1d701">
 
